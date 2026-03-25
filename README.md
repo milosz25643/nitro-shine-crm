@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💎 Nitro Shine CRM - Management System
 
 System typu **CRM (Customer Relationship Management)** zaprojektowany dla studia auto-detailingu **Nitro Shine**. Projekt łączy logikę biznesową w języku **Python** z relacyjną bazą danych **SQLite**, umożliwiając efektywne zarządzanie procesami usługowymi, bazą klientów oraz finansami studia.
@@ -32,3 +33,7 @@ Projekt opiera się na trzech kluczowych tabelach:
 1. Sklonuj repozytorium:
    ```bash
    git clone [https://github.com/milosz25643/nitro-shine-crm.git](https://github.com/milosz25643/nitro-shine-crm.git)
+=======
+# nitro-shine-crm
+System do zarządzania zleceniami i klientami studia auto-detailingu Nitro Shine (Python + SQL).
+>>>>>>> 99373aab83731dc57740ebb3345e802c03a1c4e3
